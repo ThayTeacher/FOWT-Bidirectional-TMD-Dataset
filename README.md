@@ -1,5 +1,9 @@
 # FOWT Bidirectional TMD Dataset
 
+[![DOI](https://zenodo.org/badge/1340815120.svg)](https://doi.org/10.5281/zenodo.22239191)
+
+**Dataset DOI:** https://doi.org/10.5281/zenodo.22239191
+
 ## Overview
 
 This repository contains the simulation data and supplementary results associated with the manuscript:
