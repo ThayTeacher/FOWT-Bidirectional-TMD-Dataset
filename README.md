@@ -198,9 +198,19 @@ Some supplementary figures included in `04_Processed_Results` were not included 
 
 ## Data Reuse
 
-Users of this dataset should cite the associated manuscript when using the data, simulation results, or supplementary material in academic work.
+This dataset is made available under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
 
-Citation information will be updated after publication of the associated manuscript.
+Users who reuse the data, simulation results, figures, or other materials from this repository should provide appropriate attribution to the dataset authors. Citation metadata is provided in the `CITATION.cff` file.
+
+A persistent DOI and the recommended citation for this dataset will be added after archival through Zenodo.
+
+Once the associated manuscript is published, its complete bibliographic information will also be added to this repository.
+
+---
+
+## License
+
+This dataset is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) license. See the `LICENSE` file for details.
 
 ---
 
@@ -208,16 +218,17 @@ Citation information will be updated after publication of the associated manuscr
 
 **Thayza Marcela Van Der Laan Melo**  
 Centro Federal de Educação Tecnológica Celso Suckow da Fonseca (CEFET/RJ)  
-Rio de Janeiro, Brazil
+Rio de Janeiro, RJ, Brazil
 
-Additional authors and affiliations are provided in the associated manuscript.
+**Luciana Faletti Almeida**  
+Centro Federal de Educação Tecnológica Celso Suckow da Fonseca (CEFET/RJ)  
+Rio de Janeiro, RJ, Brazil
 
-L. F. Almeida is with the Electronic Engineering Department, Centro 
-Federal de Educação Tecnológica Celso Suckow da Fonseca (CEFET-RJ), Rio 
-de Janeiro, RJ, Brazil (e-mail: luciana.almeida@cefet-rj.br). 
+**Juan G. Lazo Lazo**  
+Universidad del Pacífico  
+Lima, Peru
 
-J. G. Lazo Lazo is with the Academic Department of Engineering, 
-Universidad del Pacífico, Lima, Peru. (e-mail: jg.lazol@up.edu.pe).
+---
 
 ## Contact
 
