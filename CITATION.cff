@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it using the metadata below."
+title: "FOWT Bidirectional TMD Dataset"
+type: dataset
+
+authors:
+  - family-names: "Melo"
+    given-names: "Thayza Marcela Van Der Laan"
+  - family-names: "Almeida"
+    given-names: "Luciana Faletti"
+  - family-names: "Lazo Lazo"
+    given-names: "Juan G."
+
+repository-code: "https://github.com/ThayTeacher/FOWT-Bidirectional-TMD-Dataset"
+
+license: "CC-BY-4.0"
+
+keywords:
+  - "Floating Offshore Wind Turbine"
+  - "FOWT"
+  - "Tuned Mass Damper"
+  - "TMD"
+  - "Genetic Algorithm"
+  - "Vibration Control"
+  - "FAST-SC"
