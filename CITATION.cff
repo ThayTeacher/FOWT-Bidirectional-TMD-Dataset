@@ -12,6 +12,9 @@ authors:
     given-names: "Juan G."
 
 repository-code: "https://github.com/ThayTeacher/FOWT-Bidirectional-TMD-Dataset"
+doi: "10.5281/zenodo.22239191"
+version: "1.0.0"
+date-released: 2026-09-02
 
 license: "CC-BY-4.0"
 
